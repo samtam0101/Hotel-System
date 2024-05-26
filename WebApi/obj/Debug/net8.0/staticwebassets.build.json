@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "gQpI9SVv+ColG2PkHATB6JuDCbvoiHqNXavEzMswQ4k=",
+  "Source": "WebApi",
+  "BasePath": "_content/WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "WebApi/wwwroot",
+      "Source": "WebApi",
+      "ContentRoot": "/Users/samir/Desktop/Hotel/WebApi/wwwroot/",
+      "BasePath": "_content/WebApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/samir/Desktop/Hotel/WebApi/wwwroot/images/524f4194-f96c-4ec1-8128-21c6ed4f99eb.jpg",
+      "SourceId": "WebApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samir/Desktop/Hotel/WebApi/wwwroot/",
+      "BasePath": "_content/WebApi",
+      "RelativePath": "images/524f4194-f96c-4ec1-8128-21c6ed4f99eb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/524f4194-f96c-4ec1-8128-21c6ed4f99eb.jpg"
+    }
+  ]
+}
